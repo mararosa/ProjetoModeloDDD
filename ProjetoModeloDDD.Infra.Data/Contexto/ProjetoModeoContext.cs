@@ -1,10 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Data.Entity;
 
 namespace ProjetoModeloDDD.Infra.Data.Contexto
 {
-    class ProjetoModeoContext
+    public class ProjetoModeoContext : DbContext
     {
+        public ProjetoModeoContext()
+            : base("ProjetoModeloDD") //contrutor base que leva a string de conexao
+        {
+
+        }
+
+
     }
 }
