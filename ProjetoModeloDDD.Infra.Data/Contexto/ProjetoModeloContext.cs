@@ -3,9 +3,9 @@ using System.Data.Entity;
 
 namespace ProjetoModeloDDD.Infra.Data.Contexto
 {
-    public class ProjetoModeoContext : DbContext
+    public class ProjetoModeloContext : DbContext
     {
-        public ProjetoModeoContext()
+        public ProjetoModeloContext()
             : base("ProjetoModeloDD") //contrutor base que leva a string de conexao
         {
 
