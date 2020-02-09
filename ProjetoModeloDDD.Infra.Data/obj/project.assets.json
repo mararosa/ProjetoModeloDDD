@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "ProjetoModeloDDD.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ProjetoModeloDDD.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoModeloDDD.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ProjetoModeloDDD.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ProjetoModeloDDD.Domain/ProjetoModeloDDD.Domain.csproj",
+      "msbuildProject": "../ProjetoModeloDDD.Domain/ProjetoModeloDDD.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "ProjetoModeloDDD.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Avanade\\.nuget\\packages\\": {}
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projetos\\ProjetoModeloDDD\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\ProjetoModeloDDD\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
