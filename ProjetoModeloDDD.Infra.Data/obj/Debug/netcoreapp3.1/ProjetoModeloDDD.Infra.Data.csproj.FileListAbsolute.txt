@@ -2,3 +2,12 @@ C:\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\De
 C:\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
 C:\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.AssemblyInfoInputs.cache
 C:\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.AssemblyInfo.cs
+C:\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.deps.json
+C:\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.runtimeconfig.json
+C:\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.runtimeconfig.dev.json
+C:\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.dll
+C:\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.pdb
+C:\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.pdb
+C:\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.dll
+C:\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.pdb
