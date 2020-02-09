@@ -1,4 +1,5 @@
-﻿using System.Data.Entity;
+﻿using ProjetoModeloDDD.Domain.Entities;
+using System.Data.Entity;
 
 namespace ProjetoModeloDDD.Infra.Data.Contexto
 {
@@ -10,6 +11,6 @@ namespace ProjetoModeloDDD.Infra.Data.Contexto
 
         }
 
-
+        public DbSet<Cliente> Clientes { get; set; } //Criando DB, e a tabela de clientes
     }
 }
